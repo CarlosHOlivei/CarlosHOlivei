@@ -2,7 +2,7 @@
 - 👀 Estou interessado em expor meu aprendizado nessa plataforma que me possibilita também aprender muito.
 - 🌱 Atualmente estou estudando o básico de desenvolvimento web para seguir carreira nessa área.
 - 🚲 Quero demonstrar que não é necessário seguir com pressa nesse caminho que é tão longo.
-- 📫 Precisando falar comigo é só chamar no link ou email abaixo!
+- 📫 Precisando falar comigo é só chamar no linkedin!
 - <a href="https://www.linkedin.com/in/carlos-henrique-de-oliveira-4b72b9223/" target="_blank">Linkedin</a>
 
 <h3> Linguagens que Desenvolvo </h3>
